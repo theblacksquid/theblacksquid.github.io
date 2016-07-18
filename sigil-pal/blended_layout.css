@@ -1,0 +1,62 @@
+*{
+	 padding : 0;
+	 margin : 0;
+	 border : 0;
+}
+body{
+	 background-image : url('bi-background-lines.png');
+	 background-attachment : fixed;
+	 background-size : 100% auto;
+	 background-color : rgba(203,203,203,1);
+}
+.blended_grid{
+	 display : block;
+	 width : 900px;
+	 overflow : auto;
+	 margin : 30px auto 0 auto;
+}
+.pageHeader{
+	 background-color : rgba(0, 0, 0, 0.5);
+	 float : left;
+	 clear : none;
+	 height : 25vh;
+	 width : 67.3vw;
+	 padding-left : 2.5%;
+	 padding-top : 1.25%;
+}
+.pageLeftMenu{
+	 background-color : rgba(0, 0, 0, 0.5);
+	 float : left;
+	 clear : none;
+	 height : 100vh;
+	 width : 35.2vw;
+	 padding-left : 2.5%;
+	 padding-top : 1.25%;
+}
+.pageContent{
+	 background-color : rgba(0, 0, 0, 0.5);
+	 float : left;
+	 clear : none;
+	 height : 100vh;
+	 width : 44%;
+	 padding-left : 2.5%;
+	 padding-top : 1.25%;
+}
+.pageFooter{
+	 background-color : rgba(0, 0, 0, 0.5);
+	 float : left;
+	 clear : none;
+	 height : 25vh;
+	 width : 67.3vw;
+	 padding-left : 2.5%;
+	 padding-top : 1.25%;
+}
+
+#soi {
+	width : 100%;
+	height : 150px;
+}
+
+#process {
+	width: 100%
+}
