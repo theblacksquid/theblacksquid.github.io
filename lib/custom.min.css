@@ -9,6 +9,10 @@ html{
     position: relative;
 }
 
+#container {
+    background: linear-gradient(gray, black);
+}
+
 #title-content {
     margin-left: auto;
     margin-right: auto;
