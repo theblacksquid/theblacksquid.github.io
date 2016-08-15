@@ -1,0 +1,25 @@
+html{
+    background:black;
+    height: 100vh;
+    height:100%;
+    margin: 0;
+    padding: 0;
+    display:block;
+    overflow: auto;
+    position: relative;
+}
+
+#container {
+    background: linear-gradient(gray, black);
+}
+
+#title-content {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30%;
+}
+
+#contact {
+    margin-top: 30%;
+    margin-bottom: 30%;
+}
