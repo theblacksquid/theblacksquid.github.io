@@ -20,3 +20,5 @@ Contents:
     - TODO: Implement AI component
     - TODO: Implement Multiplayer mode
 
+* [Basic Roleplaying Character Sheets!](https://theblacksquid.github.io/BRP-Char-App)
+    - create character sheets in a modified Basic Roleplaying (BRP) game.
