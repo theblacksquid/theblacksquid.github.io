@@ -22,3 +22,6 @@ Contents:
 
 * [Basic Roleplaying Character Sheets!](https://theblacksquid.github.io/BRP-Char-App)
     - create character sheets in a modified Basic Roleplaying (BRP) game.
+
+* [Notemkr](https://theblacksquid.github.io/notemkr/)
+    - a note-taking and formatting webapp for a previous job. 
